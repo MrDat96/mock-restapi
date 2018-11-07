@@ -1,0 +1,23 @@
+{
+	"centre_malls": [{
+			"centre_mall_id": 1,
+			"centre_mall_name": "VinCom Royal City",
+			"centre_mall_address": "123 Nguyen Chi Thanh"
+		},
+		{
+			"centre_mall_id": 2,
+			"centre_mall_name": "VinCom MeGa Mall",
+			"centre_mall_address": "123 Ho Chi Minh"
+		},
+		{
+			"centre_mall_id": 3,
+			"centre_mall_name": "Vincom Plaza",
+			"centre_mall_address": "123 Pham Ngu Lao"
+		},
+		{
+			"centre_mall_id": 4,
+			"centre_mall_name": "VinCom Centre",
+			"centre_mall_address": "456 Nga 5 Chuong Cho"
+		}
+	]
+}
