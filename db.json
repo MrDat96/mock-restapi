@@ -2,29 +2,103 @@
 	"rating_type": {
 		"type": "day",
 		"number_of_date": 10,
+		"centre_mall_id": 1,
+		"problems": [{
+				"problem_id": 1,
+				"problem_name": "Service"
+			}, {
+				"problem_id": 1,
+				"problem_name": "Device"
+			},
+			{
+				"problem_id": 1,
+				"problem_name": "Toilet"
+			}
+		],
 		"data": [{
 				"rating_point": 1,
-				"type": 1,
-				"data": [10, 23, 21, 23, 23, 32, 23, 32, 32, 23]
-			}, {
+				"type_rating": 1,
+				"problems": [{
+					"problem_id": 1,
+					"problem_name": "Service",
+					"data": [5, 23, 12, 12, 45, 32, 23, 45, 32, 23]
+				}, {
+					"problem_id": 2,
+					"problem_name": "Device",
+					"data": [10, 56, 21, 34, 56, 67, 12, 78, 78, 21]
+				}, {
+					"problem_id": 3,
+					"problem_name": "Toilet",
+					"data": [5, 23, 29, 35, 23, 32, 23, 23, 27, 30]
+				}]
+			},
+			{
 				"rating_point": 2,
 				"type": 2,
-				"data": [10, 56, 21, 34, 56, 67, 12, 78, 78, 21]
+				"problems": [{
+					"problem_id": 1,
+					"problem_name": "Service",
+					"data": [5, 23, 12, 12, 45, 32, 23, 45, 32, 23]
+				}, {
+					"problem_id": 2,
+					"problem_name": "Device",
+					"data": [5, 23, 29, 35, 23, 32, 23, 23, 27, 30]
+				}, {
+					"problem_id": 3,
+					"problem_name": "Toilet",
+					"data": [10, 23, 21, 23, 23, 32, 23, 32, 32, 23]
+				}]
 			},
 			{
 				"rating_point": 3,
 				"type": 3,
-				"data": [5, 23, 12, 12, 45, 32, 23, 45, 32, 23]
+				"problems": [{
+					"problem_id": 1,
+					"problem_name": "Service",
+					"data": [10, 23, 21, 23, 23, 32, 23, 32, 32, 23]
+				}, {
+					"problem_id": 2,
+					"problem_name": "Device",
+					"data": [5, 23, 12, 12, 45, 32, 23, 45, 32, 23]
+				}, {
+					"problem_id": 3,
+					"problem_name": "Toilet",
+					"data": [12, 26, 26, 63, 23, 37, 9, 52, 34, 32]
+				}]
 			},
 			{
 				"rating_point": 4,
 				"type": 4,
-				"data": [5, 23, 29, 35, 23, 32, 23, 23, 27, 30]
+				"problems": [{
+					"problem_id": 1,
+					"problem_name": "Service",
+					"data": [10, 23, 21, 23, 23, 32, 23, 32, 32, 23]
+				}, {
+					"problem_id": 2,
+					"problem_name": "Device",
+					"data": [10, 56, 21, 34, 56, 67, 12, 78, 78, 21]
+				}, {
+					"problem_id": 3,
+					"problem_name": "Toilet",
+					"data": [10, 23, 21, 23, 23, 32, 23, 32, 32, 23]
+				}]
 			},
 			{
 				"rating_point": 5,
 				"type": 5,
-				"data": [12, 26, 26, 63, 23, 37, 9, 52, 34, 32]
+				"problems": [{
+					"problem_id": 1,
+					"problem_name": "Service",
+					"data": [5, 23, 29, 35, 23, 32, 23, 23, 27, 30]
+				}, {
+					"problem_id": 2,
+					"problem_name": "Device",
+					"data": [12, 26, 26, 63, 23, 37, 9, 52, 34, 32]
+				}, {
+					"problem_id": 3,
+					"problem_name": "Toilet",
+					"data": [10, 23, 21, 23, 23, 32, 23, 32, 32, 23]
+				}]
 			}
 		]
 	}
