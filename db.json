@@ -7,11 +7,11 @@
 				"problem_id": 1,
 				"problem_name": "Service"
 			}, {
-				"problem_id": 1,
+				"problem_id": 2,
 				"problem_name": "Device"
 			},
 			{
-				"problem_id": 1,
+				"problem_id": 3,
 				"problem_name": "Toilet"
 			}
 		],
@@ -132,11 +132,11 @@
 			"problem_name": "Service"
 		},
 		{
-			"problem_id": 1,
+			"problem_id": 2,
 			"problem_name": "Device"
 		},
 		{
-			"problem_id": 1,
+			"problem_id": 3,
 			"problem_name": "Toilet"
 		}
 	]
