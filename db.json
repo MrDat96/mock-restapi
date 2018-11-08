@@ -125,7 +125,9 @@
 			}
 		]
 	},
-	"problems": [{
+	"problems": {
+		"problems":
+		[{
 			"problem_id": 1,
 			"problem_name": "Service"
 		},
@@ -138,5 +140,5 @@
 			"problem_name": "Toilet"
 		}
 	]
-
+	}
 }
