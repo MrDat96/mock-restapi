@@ -124,6 +124,19 @@
 				"centre_mall_address": "456 Nga 5 Chuong Cho"
 			}
 		]
-	}
+	},
+	"problems": [{
+			"problem_id": 1,
+			"problem_name": "Service"
+		},
+		{
+			"problem_id": 1,
+			"problem_name": "Device"
+		},
+		{
+			"problem_id": 1,
+			"problem_name": "Toilet"
+		}
+	]
 
 }
